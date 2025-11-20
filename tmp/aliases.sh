@@ -1,0 +1,1 @@
+alias l="lldb ./build/sta ./tmp/test/sample2.tcl"
