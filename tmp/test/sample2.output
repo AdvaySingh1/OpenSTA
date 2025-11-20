@@ -34,7 +34,8 @@ Path Type: max
 
 
 Cell count: 7
-First 5 cells: _b0e1950701000000_p_Instance _50ea950701000000_p_Instance _40ee950701000000_p_Instance _10f2950701000000_p_Instance _f0f4950701000000_p_Instance
+First 5 cells: _60e60a4601000000_p_Instance _50720b4601000000_p_Instance _10930a4601000000_p_Instance _205d074601000000_p_Instance _40020d4601000000_p_Instance
+---------------------------------------
 full_name:      u_blk1
 full_name:      u_blk1/blk_r1
 full_name:      u_blk1/blk_r2
@@ -42,5 +43,11 @@ full_name:      u_blk1/blk_u1
 full_name:      u_blk2
 full_name:      u_blk2/blk_r3
 full_name:      u_blk2/blk_u2
+---------------------------------------
+PRINTING u_blk* CELLS
+full_name:      u_blk1
+full_name:      u_blk2
+---------------------------------------
+PRINTING u_blk1/blk* CELLS
 Warning: sample2.tcl line 1, instance 'u_blk1/blk*' not found.
 % 
